@@ -1,7 +1,7 @@
 {
   "name": "ampersand-view-switcher",
   "description": "A utility for swapping out views inside a container element.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "browserify": {
     "transform": [
@@ -19,7 +19,7 @@
     "browserify": "^6.2.0",
     "phantomjs": "^1.9.12",
     "precommit-hook": "^1.0.7",
-    "run-browser": "",
+    "run-browser": "^2.0.2",
     "tap-spec": "^1.0.1",
     "tape": "^2.0.0",
     "tape-run": "^0.3.0"
